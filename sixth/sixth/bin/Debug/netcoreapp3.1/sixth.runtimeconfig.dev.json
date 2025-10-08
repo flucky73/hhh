@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fluck\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fluck\\.nuget\\packages"
+    ]
+  }
+}

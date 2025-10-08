@@ -1,0 +1,13 @@
+C:\Users\fluck\source\repos\sixth\sixth\bin\Debug\netcoreapp3.1\sixth.exe
+C:\Users\fluck\source\repos\sixth\sixth\bin\Debug\netcoreapp3.1\sixth.deps.json
+C:\Users\fluck\source\repos\sixth\sixth\bin\Debug\netcoreapp3.1\sixth.runtimeconfig.json
+C:\Users\fluck\source\repos\sixth\sixth\bin\Debug\netcoreapp3.1\sixth.runtimeconfig.dev.json
+C:\Users\fluck\source\repos\sixth\sixth\bin\Debug\netcoreapp3.1\sixth.dll
+C:\Users\fluck\source\repos\sixth\sixth\bin\Debug\netcoreapp3.1\sixth.pdb
+C:\Users\fluck\source\repos\sixth\sixth\obj\Debug\netcoreapp3.1\sixth.csprojAssemblyReference.cache
+C:\Users\fluck\source\repos\sixth\sixth\obj\Debug\netcoreapp3.1\sixth.AssemblyInfoInputs.cache
+C:\Users\fluck\source\repos\sixth\sixth\obj\Debug\netcoreapp3.1\sixth.AssemblyInfo.cs
+C:\Users\fluck\source\repos\sixth\sixth\obj\Debug\netcoreapp3.1\sixth.csproj.CoreCompileInputs.cache
+C:\Users\fluck\source\repos\sixth\sixth\obj\Debug\netcoreapp3.1\sixth.dll
+C:\Users\fluck\source\repos\sixth\sixth\obj\Debug\netcoreapp3.1\sixth.pdb
+C:\Users\fluck\source\repos\sixth\sixth\obj\Debug\netcoreapp3.1\sixth.genruntimeconfig.cache
